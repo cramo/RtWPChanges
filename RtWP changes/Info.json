@@ -1,0 +1,10 @@
+﻿{
+  "Id": "RtWPChanges",
+  "DisplayName": "RtWP changes",
+  "Author": "cramo",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "RtWPChanges.dll",
+  "EntryMethod": "RtWPChanges.Main.Load"
+}
